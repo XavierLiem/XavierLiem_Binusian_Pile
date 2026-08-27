@@ -17,3 +17,7 @@ save the project, or else you just add waste to the gmail
 to put repositories in your pc:
 - open cmd in file
 - git clone [github link]
+
+to revert changes:
+- git log --oneline
+- git checkout                 [6 digit code from oneline library]
